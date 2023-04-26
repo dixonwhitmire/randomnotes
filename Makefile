@@ -15,5 +15,5 @@ test:
 .PHONY: test
 
 run:
-	go run cmd/cli/main.go
+	go run cmd/cli/main.go "$(count)"
 .PHONY: run
