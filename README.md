@@ -7,10 +7,4 @@ note across the entire fretboard.
 ## quickstart
 
 ```
-% make run count=3
-
-go run cmd/cli/main.go "3"
-A#
-Fb
-B
 ```
